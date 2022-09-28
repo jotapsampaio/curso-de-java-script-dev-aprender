@@ -17,22 +17,22 @@
 
 
 //Switch Case 
-let permissao; //tipos de pessoas (comum, gerente, diretor)
-permissao = 'gerente'
+// let permissao; //tipos de pessoas (comum, gerente, diretor)
+// permissao = 'gerente'
 
-switch (permissao) {
-    case 'comum': 
-        console.log('Usuário comum...');
-        break;
+// switch (permissao) {
+//     case 'comum': 
+//         console.log('Usuário comum...');
+//         break;
     
-    case 'gerente':
-        console.log('Usuário é o gerente...');
-        break;
+//     case 'gerente':
+//         console.log('Usuário é o gerente...');
+//         break;
     
-    case 'diretor':
-        console.log('usuário é o diretor...');
-        break;
+//     case 'diretor':
+//         console.log('usuário é o diretor...');
+//         break;
     
-    default:
-        console.log('Nenhum dos usuários acima...')
-}
+//     default:
+//         console.log('Nenhum dos usuários acima...')
+// }
